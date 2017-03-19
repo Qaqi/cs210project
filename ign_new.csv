@@ -1,4 +1,4 @@
-GameId;score_phrase;title;url;platform;score;genre;editors_choice;release_year;release_month;release_day
+gameid;score_phrase;title;url;platform;score;genre;editors_choice;release_year;release_month;release_day
 0;Amazing;LittleBigPlanet PS Vita;/games/littlebigplanet-vita/vita-98907;PlayStation Vita;9.0;Platformer;Y;2012;9;12
 3;Great;NHL 13;/games/nhl-13/xbox-360-128182;Xbox 360;8.5;Sports;N;2012;9;11
 4;Great;NHL 13;/games/nhl-13/ps3-128181;PlayStation 3;8.5;Sports;N;2012;9;11
